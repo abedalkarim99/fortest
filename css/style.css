@@ -2074,7 +2074,7 @@ hr.thick{
 	position: absolute;
 	width: 30px; 
 	height: 20px;
-	background: #38cfae;
+	background: blue;
 	opacity: 0.2;
 	animation: fade 1.5s infinite ease;
 	box-shadow: 0 0 20px #3383FF, 0 0 20px #3383FF;
@@ -2114,9 +2114,9 @@ hr.thick{
 }
 
 /* Hex Default Color ( Green )*/
-.hex {background: #59ab66; box-shadow: 0 0 20px #59ab66, 0 0 20px #59ab66;}
-.hex:before {border-bottom: 8px solid #59ab66;}
-.hex:after {border-top: 8px solid #59ab66; }
+.hex {background: blue; box-shadow: 0 0 20px blue, 0 0 20px blue;}
+.hex:before {border-bottom: 8px solid blue;}
+.hex:after {border-top: 8px solid blue; }
 
 .color-scheme-purple .hex {background: #6770b9; box-shadow: 0 0 20px #6770b9, 0 0 20px #6770b9;}
 .color-scheme-purple .hex:before {border-bottom: 8px solid #6770b9;}
