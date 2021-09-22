@@ -6080,7 +6080,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 .portfolio-section .cws-triangle-overlay.bottom-left{
 	clip-path: polygon(0% calc(100% - 120px), 50% calc(100% - 60px), 0% 100%);
     -webkit-clip-path: polygon(0% calc(100% - 120px), 50% calc(100% - 60px), 0% 100%);
-    background: rgba(20,50,60,0.63);
+    background: rgba(0,20,150,0.20);
 }
 
 .portfolio-section .carousel-outer{
